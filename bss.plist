@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://upark.xlh.yalalat.com/upfile/bss.ipa</string>
+					<string>http://upark.xlh.yalalat.com/bss/bss.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://upark.xlh.yalalat.com/upfile/bss.png</string>
+					<string>http://upark.xlh.yalalat.com/bss/bss.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>UparkScan</string>
+				<string>BSS</string>
 				<key>title</key>
 				<string>诺亚场所</string>
 			</dict>
