@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://upark.xlh.yalalat.com/bss/bss.ipa</string>
+					<string>http://www.yalalat.com/appdownload/bss/bss.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://upark.xlh.yalalat.com/bss/bss.png</string>
+					<string>http://www.yalalat.com/appdownload/bss/bss.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
